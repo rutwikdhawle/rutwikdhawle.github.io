@@ -4,7 +4,7 @@
 <style>
 .text{
       position:absolute;
-      top:10%;
+      top:20%;
       left:30%;
       transform:translate(-15%,-15%);
 }
@@ -57,6 +57,6 @@ padding:15px;
             <li>e</li>
      </ul>  <br>  
    <input type="Search" placeholder="Search">
-<br><img src="Rutwik_1.jpg" widht=150 height=150>   <img src="Rutwik_1.jpg" widht=150 height=150><img src="Rutwik_1.jpg" widht=150 height=150></div>
+<br></div>
    </body>
 </html>
