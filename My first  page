@@ -1,0 +1,76 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+   <link rel="stylesheet" href="0.css">
+   <link rel="stylesheet" media="screen and (max-width:360px)" href="re-0.css">
+   <link href="https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&display=swap" rel="stylesheet">
+    <title>Document</title>
+<style>
+</style>
+</head>
+<body>
+
+  
+  <div class="container">
+  
+    <div  class="box" id="box2">
+            <img src="./img/012.jpg" width="90"height="90"><h2>Rutwik Dhawle</h2>
+     
+   <div class="r">
+    <ul>
+     <li><a href="#box3">Home</a></li>
+     <li><a href="#box31">Form</a></li>
+     <li><a href="#to1">Clients-1</a></li>
+     <li><a href="#to3">Clients-2</a></li>
+     <li><a href="#box4">Contact Us</a></li>
+    </ul>
+   </div>
+</div>
+    
+  
+    <div  class="box" id="box3">W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our by Refsnes Data. All Rights Reserved.W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we8bn cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our by Refsnes Data. All Rights Reserved. All Rights Reserved.</p>
+    <p>W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we8bn cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our by Refsnes Data. All Rights Reserved.
+    W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding.
+    W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding.</p>
+    
+    <div  class="box" id="box31">
+    <img src="./img/22.jpg" width="315"
+height="400">
+    </div>
+    
+    <p>W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we8bn cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our by Refsnes Data. All Rights Reserved.W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we8bn cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our by Refsnes Data. All Rights Reserved.W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we8bn cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our by Refsnes Data. All Rights Reserved.</p>
+    <p>W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we8bn cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our by Refsnes Data. All Rights Reserved.W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we8bn cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our by Refsnes Data. All Rights Reserved.W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we8bn cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our by Refsnes Data. All Rights Reserved.</p> <div class="z">
+    <div class="le" id="to1">
+    <img src="./img/1.jpg" width="100" height="100">
+    <p>W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding.</p>
+   </div> 
+    
+     <div class="le">
+    <img src="./img/2.jpg" width="100" height="100">
+    <p>W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding.</p>
+    </div> 
+    
+     <div class="le" id="to3">
+    <img src="./img/3.jpg" width="100" height="100">
+    <p>W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding.</p>
+    </div> 
+ 
+  </div>
+ 
+     <p>W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we8bn cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our by Refsnes Data. All Rights Reserved.W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we8bn cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our by Refsnes Data. All Rights Reserved.W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we8bn cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our by Refsnes Data. All Rights Reserved.</p>
+    </div>
+  
+    <div  class="box" id="box4"><h1>Contact Us</h1>
+<a href="https://instagram.com/rutwik.dhawle"><img src="./img/insta.png" alt="insta" width="60px"/></a>   
+<a href="https://rutwik2017dhawle@gmail.com"><img src="./img/02.jpg" alt="facebook" width="60px" height="60"/></a>
+<a href="https://twitter.com/@DhawleRutwik" target="blank"><img src="./img/twitter.png" alt="twitter" width="60px"/></a>
+<a href="https://api.whatsapp.com/send?phone=917888167935"><img src="./img/whatsapp.png" alt="whatsapp" width="60px"/></a>
+<a href="https://github.com/rutwikdhawle"><img src="./img/github.png" alt="github" width="60px"/></a>
+<a href="https://t.me/rutwik012"><img src="./img/01.jpg" alt="telegram" width="60px"/></a>
+    <p>Rutwik Web Deisgn, Copyright &copy; 2020</p>
+    </div>
+  
+  </div>
+</body>
+</html>
+
