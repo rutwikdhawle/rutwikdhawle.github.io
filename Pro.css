@@ -45,7 +45,7 @@ background-repeat: repeat-x;
     background:linear-gradient(to right, blue, red);
     -webkit-text-fill-color:transparent;
     -webkit-background-clip:text;
-    animation:animate 20s linear infinite;
+    animation:animate 10s linear infinite;
     
   }
   @keyframes animate{
