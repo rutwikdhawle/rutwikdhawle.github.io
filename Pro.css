@@ -11,27 +11,26 @@ padding:8px;
 
 }
 
-.lo1{
-  
+.lo1{  
 margin:-70px 0px 0px 90px;
-/* padding:0px 20px 18px 0px; */
-display:flex;
-list-style:none;
+display: flex;
+list-style: none;
 }
+
 .lo1 li{
-  
 margin:4px;
-/* padding: 10px 4px 4px 2px; */
-background:grey;
-border-radius:15px;
+padding: 8px;
+background: grey;
+border-radius: 8px;
 height:40px;
-box-shadow: -2px -2px 12px #46809b, 5px 5px 10px black;
+
 }
+
 h2
-{
-  
+{ 
 margin-right:10px;
 }
+
 .type{
 	color:#ff747f;
 	font-size:23px;
